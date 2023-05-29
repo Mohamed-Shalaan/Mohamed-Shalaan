@@ -1,6 +1,6 @@
-
 ![https://i.ibb.co/0yfh2P8/In-God-we-trust-All-others-bring-data.jpg"](https://i.ibb.co/M87fghf/Github-Header.png)
 
+# 💫 About Me:
 I'm Mohamed Salah 👋,<br>Fresh **CS graduate** from Al-Azhar University 🎓 <br>with **+3 years of experience** in *Graphic Design*, *Digital Marketing*, *Project Management*, and *HRM* 🧔🏻<br><br>Currently Transforming from Software Engineering ⚙️<br>to the Data Fields and specifically Data Science 📊
 
 
