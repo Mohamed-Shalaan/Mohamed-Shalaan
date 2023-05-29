@@ -23,4 +23,4 @@ I'm Mohamed Salah 👋,<br>Fresh **CS graduate** from Al-Azhar University 🎓 <
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohamed-Shalaan&icon=7&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
