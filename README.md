@@ -39,20 +39,6 @@ I'm Mohamed Salah 👋,<br>Fresh **CS graduate** from Al-Azhar University 🎓 <
 
 
 
-<a href=https://github.com/Mohamed-Shalaan/ProjectCAPI>
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Shalaan&repo=ProjectCAPI&theme=radical&hide_border=false" />
-</a>
-<br>
-
-<a href=https://github.com/Mohamed-Shalaan/4Traffic-Controller>
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Shalaan&repo=4Traffic-Controller&theme=radical&hide_border=false" />
-</a>
-<br>
-
-<a href=https://github.com/Mohamed-Shalaan/Booth-s-Algorithm-VHDL->
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Shalaan&repo=Booth-s-Algorithm-VHDL-&theme=radical&hide_border=false" />
-</a>
-<br>
 
 
 
